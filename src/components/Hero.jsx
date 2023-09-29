@@ -2,7 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
-import heroImage from '../assets/images/hero-image.jpg';
+import heroImage from '/hero-image.jpg';
 
 
 const Hero = () => {
