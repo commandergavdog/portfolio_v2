@@ -8,7 +8,7 @@ const Footer = () => {
 
 
 
-                <a href="./src/assets/frank-dominguez-resume.pdf" target="_blank"
+                <a href="/frank-dominguez-resume.pdf" target="_blank"
                     className="flex flex-row justify-start m-2 p-2 gap-2 items-center text-sm lg:text-normal hover:cursor-pointer"
                 >
                     <p className="font-semibold">View Full Résumé</p>
