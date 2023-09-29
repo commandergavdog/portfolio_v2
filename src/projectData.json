@@ -1,0 +1,87 @@
+[
+    
+    {
+        "id": 1,
+        "title": "HelpGavin.com",
+        "image": "./src/assets/images/cardImages/project-card-image-1.png",
+        "alt": "HelpGavin.com Landing Page",
+        "copy": "HelpGavin.com is a fundraising website built to raise money for a dog's medical expenses. The website aims to provide visitors with a seamless experience to learn about Gavin's story, view pictures, and make donations.",        
+        "url":"https://helpgavin.com/",
+        "technologies": {
+            "1": "HTML",
+            "2": "CSS",
+            "3": "jQuery",
+            "4": "Featherlight",
+            "5": "Google Analytics"
+        }
+    },
+    {
+        "id": 2,
+        "title": "No Bones About It",
+        "image": "./src/assets/images/cardImages/project-card-image-2.png",
+        "alt": "No Bones About It Landing Page",
+        "copy": "No Bones About It is a digital platform created to showcase a vegan culinary business. The application provides users with a visually pleasing gallery of vegan dishes, social media links for further engagement, and essential information about the company.",
+        "url":"https://commandergavdog.github.io/No-Bones-About-It/",
+        "technologies": {
+            "1": "React",
+            "2": "Tailwind"            
+        }
+    },
+    {
+        "id": 3,
+        "title": "Pokémon Click Quest",
+        "image": "./src/assets/images/cardImages/project-card-image-3.png",
+        "alt": "Pokémon Click Quest Landing Page",
+        "copy": "Pokémon Click Quest is a memory game built to test your recollection skills and love for Pokémon. Click on different Pokémon without clicking the same one twice.",
+        "url":"https://commandergavdog.github.io/Pokemon-Click-Quest/",
+        "technologies": {
+            "1": "React",
+            "2": "Bootstrap",
+            "3": "Webpack",
+            "4": "Bable"            
+        }
+    },
+    {
+        "id": 4,
+        "title": "IdentiWrite",
+        "image": "./src/assets/images/cardImages/project-card-image-4.png",
+        "alt": "IdentiWrite Landing Page",
+        "copy": "IdentiWrite.com serves as the digital hub for a family-owned dental copywriting agency. Specializing in content marketing and search engine optimization, the agency helps dentists acquire new patients. The website offers a blog, company information, and a way for potential clients to get in touch via contact forms.",
+        "url":"https://identiwrite.com/",
+        "technologies": {
+            "1": "WordPress",
+            "2": "Wp Bakery",
+            "3": "jQuery",            
+            "4": "Google Analytics"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Dragon Ball Brain Battle",
+        "image": "./src/assets/images/cardImages/project-card-image-5.png",
+        "alt": "Dragon Ball Brain Battle Landing Page",
+        "copy": "Dragon Ball Brain Battle is a quiz game that tests your knowledge of the iconic anime series Dragon Ball Z. Upon completion, the game provides a detailed breakdown of your performance, including the number of questions answered correctly, incorrectly, and those left unanswered.",
+        "url":"https://commandergavdog.github.io/Dragon-Ball-Brain-Battle/",
+        "technologies": {
+            "1": "HTML",
+            "2": "Bootstrap",
+            "3": "jQuery"            
+        }
+    },
+    {
+        "id": 6,
+        "title": "Gif Fetcher",
+        "image": "./src/assets/images/cardImages/project-card-image-6.png",
+        "alt": "Gif Fetcher Landing Page",
+        "copy": "This Giphy API Website offers a simple and intuitive platform for users to search and browse GIFs. Tapping into the power of the Giphy API, the website delivers a wide range of GIFs based on user queries. The interface incorporates retro video game styling, adding a unique and nostalgic touch to the user experience.",
+        "url":"https://commandergavdog.github.io/Giphy-jQuery-Project/",
+        "technologies": {
+            "1": "HTML",
+            "2": "CSS",
+            "3": "jQuery",
+            "4": "AJAX"            
+        }
+    }
+
+    
+]
