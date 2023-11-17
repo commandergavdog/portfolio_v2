@@ -20,7 +20,7 @@ const Hero = () => {
             >
             </img>
 
-            <p className='text-xs text-center whitespace-nowrap lg:text-base'>I build responsive, user-freindly web applications.</p>
+            <p className='text-xs text-center whitespace-nowrap lg:text-base'>I build responsive, user-friendly web applications.</p>
 
             <div className='flex flew-row justify-center items-center gap-5 mb-2'>
 
