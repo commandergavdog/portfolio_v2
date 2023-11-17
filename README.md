@@ -26,4 +26,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## 🙋‍♂️ Author
 
-Frank Dominguez - [Github](https://github.com/commandergavdog), [LinkedIn](https://www.linkedin.com/)
+Frank Dominguez - [Github](https://github.com/commandergavdog), [LinkedIn](https://www.linkedin.com/in/frank-dominguez3/)
